@@ -9,11 +9,6 @@ theme = "galleriesdeluxe"
 [taxonomies]
     category = 'categories'
 
-[caches]
-    [caches.images]
-        dir    = ':cacheDir/galleriesdeluxe'
-        maxAge = "4320h"                     # 6 months.
-
 [params]
     [params.gallerydeluxe]
         shuffle     = false
@@ -37,5 +32,3 @@ theme = "galleriesdeluxe"
         target = "static"
     [[module.imports]]
         path = "gallerydeluxe"
-    [[module.imports]]
-        path = "hugo-mod-misc/common-partials"
