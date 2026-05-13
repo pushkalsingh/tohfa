@@ -1,5 +1,7 @@
 ---
-title: "God Idols"
-summary: "Panchmukhi Ganesh 3 inch high"
-description: "Panchmukhi Ganesha"
+title: "Kuber"
+summary: "Kuber 4 inch high"
+description: "Kuber Brass"
+cascade:
+   featured_image_method: "Fit"
 ---

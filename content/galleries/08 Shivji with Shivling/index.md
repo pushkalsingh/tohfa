@@ -1,5 +1,7 @@
 ---
-title: "God Idols"
-summary: "Panchmukhi Ganesh 3 inch high"
-description: "Panchmukhi Ganesha"
+title: "Shivji"
+summary: "Shivji 4 inch"
+description: "Shivji Brass"
+cascade:
+   featured_image_method: "Fit"
 ---

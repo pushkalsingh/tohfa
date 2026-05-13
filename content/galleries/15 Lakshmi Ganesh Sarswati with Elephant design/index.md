@@ -1,5 +1,7 @@
 ---
-title: "God Idols"
-summary: "Panchmukhi Ganesh 3 inch high"
-description: "Panchmukhi Ganesha"
+title: "Lakshmi Ganesha Sarswat with elephant panel"
+summary: "Lakshmi Ganesha Sarswat with elephant panel"
+description: "Lakshmi Ganesha Sarswat with elephant panel"
+cascade:
+   featured_image_method: "Fit"
 ---

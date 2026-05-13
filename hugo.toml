@@ -45,5 +45,5 @@ theme = "github.com/bep/galleriesdeluxe"
   # Galleries Deluxe performs heavy image processing; 
   # these settings help Hugo handle your product photos.
   resampleFilter = "Lanczos"
-  quality = 75
-  anchor = "smart"
+  quality = 90
+  anchor = "center"

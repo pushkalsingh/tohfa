@@ -1,5 +1,7 @@
 ---
-title: "God Idols"
-summary: "Panchmukhi Ganesh 3 inch high"
-description: "Panchmukhi Ganesha"
+title: "Elephant Small"
+summary: "Elephant Small"
+description: "Elephant Small Brass"
+cascade:
+   featured_image_method: "Fit"
 ---

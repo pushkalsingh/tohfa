@@ -1,5 +1,7 @@
 ---
-title: "God Idols"
-summary: "Panchmukhi Ganesh 3 inch high"
-description: "Panchmukhi Ganesha"
+title: "Asan Lakshmi"
+summary: "Asan Lakshmi 4 inch"
+description: "Asan Lakshmi Brass"
+cascade:
+   featured_image_method: "Fit"
 ---

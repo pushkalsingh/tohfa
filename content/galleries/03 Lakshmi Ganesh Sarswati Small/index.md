@@ -1,5 +1,8 @@
 ---
-title: "God Idols"
-summary: "Panchmukhi Ganesh 3 inch high"
-description: "Panchmukhi Ganesha"
+title: "Lakshmi Ganesha Sarswati"
+summary: "Lakshmi Ganesha Sarswati"
+description: "Brass Lakshmi Ganesha Sarswati small"
+
+cascade:
+   featured_image_method: "Fit"
 ---

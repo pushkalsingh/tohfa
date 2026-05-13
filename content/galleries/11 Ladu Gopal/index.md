@@ -1,5 +1,7 @@
 ---
-title: "God Idols"
-summary: "Panchmukhi Ganesh 3 inch high"
-description: "Panchmukhi Ganesha"
+title: "Ladhu Gopal"
+summary: "Ladhu Gopal small"
+description: "Ladhu Gopal Brass"
+cascade:
+   featured_image_method: "Fit"
 ---

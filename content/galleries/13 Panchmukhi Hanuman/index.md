@@ -1,5 +1,7 @@
 ---
-title: "God Idols"
-summary: "Panchmukhi Ganesh 3 inch high"
-description: "Panchmukhi Ganesha"
+title: "Panchmukhi Hanuman"
+summary: "Panchmukhi Hanuman"
+description: "Panchmukhi Hanuman Brass"
+cascade:
+   featured_image_method: "Fit"
 ---

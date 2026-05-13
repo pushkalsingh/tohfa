@@ -1,5 +1,8 @@
 ---
-title: "God Idols"
-summary: "Panchmukhi Ganesh 3 inch high"
-description: "Panchmukhi Ganesha"
+title: "Krishna"
+summary: "Krishna 6 inch high"
+description: "Brass Krishna"
+
+cascade:
+   featured_image_method: "Fit"
 ---

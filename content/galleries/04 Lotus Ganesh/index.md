@@ -1,5 +1,7 @@
 ---
-title: "God Idols"
-summary: "Panchmukhi Ganesh 3 inch high"
-description: "Panchmukhi Ganesha"
+title: "Lotus Ganesha"
+summary: "Lotus Ganesha 4 inch"
+description: "Lotus Ganesha Brass"
+cascade:
+   featured_image_method: "Fit"
 ---
