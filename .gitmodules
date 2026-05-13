@@ -1,3 +1,6 @@
 [submodule "themes/galleriesdeluxe"]
 	path = themes/galleriesdeluxe
 	url = https://github.com/bep/galleriesdeluxe.git
+[submodule "themes/hugo-mod-misc"]
+	path = themes/hugo-mod-misc
+	url = https://github.com/bep/hugo-mod-misc.git
