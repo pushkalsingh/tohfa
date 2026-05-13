@@ -1,7 +1,6 @@
 baseURL = 'https://github.com/pushkalsingh/tohfa'
 languageCode = 'en-us'
 title = 'My Photo Gallery'
-theme = 'galleriesdeluxe'
 
 [module]
   [[module.imports]]
