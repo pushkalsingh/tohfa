@@ -1091,6 +1091,13 @@ header h1 {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
   grid-gap: 0.5rem;
+  aspect-ratio: 1 / 1;
+  width: 100%;
+  object-fit: contain;
+  padding: 10px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
 }
 .galleries a {
   text-decoration: none;
@@ -1107,7 +1114,7 @@ header h1 {
 .galleries .card .card-img img {
   width: 100%;
   height: auto;
-  object-fit: cover;
+  object-fit: contain;
   border-radius: 0.75rem;
 }
 .galleries .card .card-img .num-photos {
