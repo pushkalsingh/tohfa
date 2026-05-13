@@ -1,7 +1,6 @@
 baseURL = 'https://github.com/pushkalsingh/tohfa'
 languageCode = 'en-us'
-title = 'Art by Moniika'
-theme = 'galleriesdeluxe'
+title = 'Tohfa Gallery'
 
 # Vital for images in GitHub subfolders
 canonifyURLs = true
