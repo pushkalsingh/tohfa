@@ -35,6 +35,6 @@ title = 'Tohfa Gallery'
         source = "static"
         target = "static"
     [[module.imports]]
-        path = "https://github.com/bep/gallerydeluxe"
+        path = "[github.com/bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe)" # CORRECT
     [[module.imports]]
-        path = "https://github.com/bep/hugo-mod-misc/common-partials"
+        path = "[github.com/bep/hugo-mod-misc/common-partials](github.com/bep/hugo-mod-misc/common-partials)"
