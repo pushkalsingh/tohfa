@@ -1,34 +1,49 @@
-baseURL = "https://github.com/pushkalsingh/tohfa"
-locale = "en-us"
-title = 'Tohfa Gallery'
-theme = "galleriesdeluxe"
+baseURL = 'https://pushkalsingh.github.io/tohfa/'
+languageCode = 'en-us'
+title = 'Tohfa - Luxury Brass Gifts'
+defaultContentLanguage = 'en'
+locale = 'en-us'
 
-[author]
-    name = "Bjørn Erik Pedersen"
-
-[taxonomies]
-    category = 'categories'
+# We define the theme as a module path
+theme = "github.com/bep/galleriesdeluxe"
 
 [params]
-    [params.gallerydeluxe]
-        shuffle     = false
-        reverse     = true
-        enable_exif = false
+  description = "Exquisite handcrafted brass gifts and accessories."
+  copyright = "Pushkal Singh"
 
 [module]
-    [module.hugoVersion]
-        min = "0.160.0"
-    [[module.mounts]]
-        source = "assets"
-        target = "assets"
-    [[module.mounts]]
-        source = "layouts"
-        target = "layouts"
-    [[module.mounts]]
-        source = "i18n"
-        target = "i18n"
-    [[module.mounts]]
-        source = "static"
-        target = "static"
-    [[module.imports]]
-        path = "gallerydeluxe"
+  # 1. The main gallery theme logic
+  [[module.imports]]
+    path = "github.com/bep/galleriesdeluxe"
+
+  # 2. The missing piece that fixes the "head-seo.html" error
+  [[module.imports]]
+    path = "github.com/bep/hugo-mod-misc/common-partials"
+
+[mediaTypes]
+  # Required by Galleries Deluxe for image and redirect processing
+  [mediaTypes."text/netlify"]
+    suffixes = ["redirects"]
+
+[outputFormats]
+  [outputFormats.REDIRECTS]
+    mediaType = "text/netlify"
+    baseName = "_redirects"
+    notAlternative = true
+
+[outputs]
+  # Home page needs these formats for the theme to function
+  home = ["HTML", "RSS", "REDIRECTS"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      # Allows the theme to render custom HTML gallery layouts
+      unsafe = true
+
+[imaging]
+  # Galleries Deluxe performs heavy image processing; 
+  # these settings help Hugo handle your product photos.
+  resampleFilter = "Lanczos"
+  quality = 75
+  anchor = "smart"

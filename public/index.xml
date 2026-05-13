@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tohfa - Luxury Brass Gifts</title>
+    <link>http://localhost:1313/tohfa/</link>
+    <description>Recent content on Tohfa - Luxury Brass Gifts</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tohfa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/tohfa/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tohfa/about/</guid>
+      <description>&lt;p&gt;This is some &lt;strong&gt;text&lt;/strong&gt; about me. Commodo ea irure elit Lorem Lorem amet do. Sint in officia qui sit velit ipsum consectetur nostrud adipisicing reprehenderit. Cupidatat exercitation qui fugiat dolore laborum. Deserunt irure id consequat ad.&lt;/p&gt;&#xA;&lt;p&gt;Fugiat in tempor in ipsum occaecat laboris sunt sunt elit &lt;em&gt;ullamco quis&lt;/em&gt;. Ea nisi officia esse sint excepteur sunt velit id cillum sit id magna nulla. Minim irure excepteur exercitation quis commodo amet aliqua quis excepteur nostrud labore do est. Culpa incididunt proident commodo quis pariatur mollit ea aliqua reprehenderit cillum duis duis dolor. Duis officia ea ex non quis qui consequat. Elit &lt;strong&gt;sunt ea in eu cupidatat&lt;/strong&gt; sunt voluptate aute nulla ex velit Lorem anim.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>God Idols</title>
+      <link>http://localhost:1313/tohfa/galleries/01-panchmukhi-ganesh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tohfa/galleries/01-panchmukhi-ganesh/</guid>
+      <description>Panchmukhi Ganesh 3 inch high</description>
+    </item>
+  </channel>
+</rss>
