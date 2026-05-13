@@ -56,7 +56,7 @@ jobs:
         uses: actions/configure-pages@v4
 
       - name: Install dependencies
-        run: hugo mod download
+        run: hugo mod tidy
 
       - name: Build with Hugo
         run: |
