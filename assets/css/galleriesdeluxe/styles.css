@@ -110,6 +110,13 @@ header {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
   grid-gap: 0.5rem;
+  aspect-ratio: 1 / 1;    /* Forces the container to be a perfect square */
+  width: 100%;            /* Fills the grid width */
+  object-fit: contain;    /* Shows the full image without cutting */
+  padding: 10px;          /* Creates "breathing room" inside the box */
+  background-color: #fff; /* White background behind the product */
+  border: 1px solid #ddd; /* The subtle border around the box */
+  border-radius: 4px;     /* Optional: slightly rounded corners */
 
   a {
     text-decoration: none;
@@ -128,7 +135,7 @@ header {
       img {
         width: 100%;
         height: auto;
-        object-fit: cover;
+        object-fit: contain;
         border-radius: 0.75rem;
       }
 
