@@ -101,6 +101,9 @@
     <loc>http://localhost:1313/tohfa/galleries/categories/pan-stand/lakshmi-ganesha-gold/</loc>
     <lastmod>2026-05-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tohfa/galleries/categories/brass/15-lakshmi-ganesh-sarswati-with-elephant-design/</loc>
+    <lastmod>2026-05-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tohfa/galleries/categories/brass/03-lakshmi-ganesh-sarswati-small/</loc>
     <lastmod>2026-05-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -123,6 +126,12 @@
     <lastmod>2026-05-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tohfa/galleries/categories/pan-stand/</loc>
+    <lastmod>2026-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tohfa/categories/pan-stand-gold/</loc>
+    <lastmod>2026-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tohfa/categories/pan-stand-silver/</loc>
     <lastmod>2026-05-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tohfa/galleries/categories/brass/01-panchmukhi-ganesh/</loc>
@@ -198,8 +207,6 @@
     <lastmod>2026-05-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tohfa/about/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tohfa/galleries/categories/brass/15-lakshmi-ganesh-sarswati-with-elephant-design/</loc>
   </url><url>
     <loc>http://localhost:1313/tohfa/tags/</loc>
   </url>

@@ -1,6 +1,13 @@
 ---
-title: "Khaamdhenu Cow Silver"
+title: "42 Pan Stand - Khaamdhenu Cow Silver"
 date: 2026-05-13
 categories: [Pan Stand, Pan Stand Silver]
 draft: false
 ---
+Dimensions: 5inch High 
+
+Weight: 100gm
+
+Material: Plastic
+
+Online Price: Rs.250/-

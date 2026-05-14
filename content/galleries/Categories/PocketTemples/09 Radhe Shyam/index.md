@@ -1,6 +1,13 @@
 ---
-title: "Radhe Shayam"
+title: "23 Pocket Temple - Radhe Shayam"
 date: 2026-05-13
 categories: Pocket Temples
 draft: false
 ---
+Dimensions: 1.25inch X 4.5inch X 4.5 inch
+
+Weight: 200gm
+
+Material: Plastic
+
+Online Price: Rs.400/-

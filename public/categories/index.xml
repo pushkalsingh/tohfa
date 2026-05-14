@@ -43,19 +43,5 @@
       <guid>http://localhost:1313/tohfa/categories/pocket-temples/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Pan Stand, Pan Stand Gold</title>
-      <link>http://localhost:1313/tohfa/categories/pan-stand-pan-stand-gold/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tohfa/categories/pan-stand-pan-stand-gold/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pan Stand, Pan Stand Silver</title>
-      <link>http://localhost:1313/tohfa/categories/pan-stand-pan-stand-silver/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tohfa/categories/pan-stand-pan-stand-silver/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

@@ -1,5 +1,5 @@
 ---
-title: "Pan Stand"
+title: "(C) Pan Stand"
 categories: Pan Stand
 layout: "list"
 ---
