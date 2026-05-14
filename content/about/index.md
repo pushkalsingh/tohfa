@@ -5,23 +5,20 @@ layout: about
 
 Contact Information
 📍 TOHFA Store
-Premium Spiritual Décor Collection
+Premium Spiritual Pooja Articles and Decor Collection
 
 📞 +91 6302672351
-
 📧 contact@tohfaonline.com
 
 Chat On WhatsApp : +91 6302672351
 Business Hours
-Mon — Sat : 10 AM — 7 PM
+Mon — Sat: 10 AM — 7 PM
 
 
-Rooted in sacred tradition and elevated through contemporary refinement, TOHFA redefines spiritual décor for modern luxury homes.
+Rooted in sacred tradition and elevated through contemporary refinement, TOHFA redefines spiritual décor, pooja articles for modern luxury homes.
 
 Each idol is designed to reflect devotion, precision detailing, and enduring metallic brilliance — making every space divine.
-
 From raw material selection to final polish, each idol undergoes meticulous artistry.
-
 The result is unmatched durability, radiant metallic shine, and an aura of divine sophistication.
 
 

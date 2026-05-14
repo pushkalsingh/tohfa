@@ -1,4 +1,5 @@
 ---
-title: "Pocket Temples"
-layout: "list"
+title: Pocket Temples
+categories: Pocket Temples
+layouts: list
 ---

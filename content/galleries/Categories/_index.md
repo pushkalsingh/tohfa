@@ -1,5 +1,5 @@
 ---
-title: "Categories"
-layout: "list"
+title: Categories
+layouts: list
 ---
 

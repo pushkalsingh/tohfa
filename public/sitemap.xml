@@ -29,7 +29,13 @@
     <loc>http://localhost:1313/tohfa/galleries/categories/pan-stand/balaji-gold/</loc>
     <lastmod>2026-05-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tohfa/categories/brass-products/</loc>
+    <lastmod>2026-05-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tohfa/galleries/categories/brass/</loc>
+    <lastmod>2026-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tohfa/categories/</loc>
     <lastmod>2026-05-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tohfa/galleries/categories/</loc>
@@ -60,6 +66,9 @@
     <lastmod>2026-05-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tohfa/galleries/categories/pockettemples/hanuman-ji/</loc>
+    <lastmod>2026-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tohfa/</loc>
     <lastmod>2026-05-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tohfa/galleries/categories/pan-stand/khaamdhenu-cow-gold/</loc>
@@ -110,6 +119,9 @@
     <loc>http://localhost:1313/tohfa/galleries/categories/pockettemples/07-makkah/</loc>
     <lastmod>2026-05-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tohfa/categories/pan-stand/</loc>
+    <lastmod>2026-05-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tohfa/galleries/categories/pan-stand/</loc>
     <lastmod>2026-05-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -117,6 +129,9 @@
     <lastmod>2026-05-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tohfa/galleries/categories/brass/13-panchmukhi-hanuman/</loc>
+    <lastmod>2026-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tohfa/categories/pocket-temples/</loc>
     <lastmod>2026-05-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tohfa/galleries/categories/pockettemples/</loc>
@@ -179,15 +194,10 @@
     <loc>http://localhost:1313/tohfa/galleries/categories/pockettemples/sidhivinayak-ganesha/</loc>
     <lastmod>2026-05-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tohfa/</loc>
-    <lastmod>2026-05-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tohfa/galleries/categories/pockettemples/01-wahe-guru/</loc>
     <lastmod>2026-05-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tohfa/about/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tohfa/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/tohfa/galleries/categories/brass/15-lakshmi-ganesh-sarswati-with-elephant-design/</loc>
   </url><url>

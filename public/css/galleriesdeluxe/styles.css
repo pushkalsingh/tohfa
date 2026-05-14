@@ -110,6 +110,8 @@ input {
   --color-text-footer: #000;
   --color-background: #fff;
   --color-background-footer: #fff1dc;
+  --color-body:#f2dcbc;
+  --color-link:#6f4242;
   --font-family-serif:
     Charter,
     "Bitstream Charter",
@@ -998,17 +1000,21 @@ input {
 html,
 body {
   min-height: 90vh;
+  color: var(--color-link);
+  text-decoration-color: var(--color-link);
 }
 body {
   font-family: var(--font-family-base);
   margin: 0;
   padding: 0;
   font-size: var(--font-size-base);
-  color: var(--color-text);
+  color: var(--color-link);
+  text-decoration-color: var(-color-link);
   background: var(--color-background);
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   fill: currentColor;
+  background-color: var(--color-body);
 }
 footer {
   background: var(--color-background-footer);
@@ -1032,7 +1038,7 @@ footer > div {
   }
 }
 a {
-  color: var(--color-primary);
+  color: var(--color-link);
   text-decoration: none;
   font-weight: bold;
 }
@@ -1063,6 +1069,8 @@ header {
   text-align: center;
   margin-top: 2rem;
   margin-bottom: 3rem;
+  padding: 30px;
+  background-color: var(--color-secondary);
 }
 header ul {
   display: flex;
@@ -1101,10 +1109,14 @@ header h1 {
 }
 .galleries a {
   text-decoration: none;
-  color: var(--color-primary);
+  color: var(--color-link);
 }
 .galleries .card {
   padding: 2rem;
+  text-align: center;
+  background-color: #fcfcfc;
+  border: 1px solid #b8a7a7;
+  border-radius: 4px;
 }
 .galleries .card .card-img {
   display: block;
@@ -1144,4 +1156,7 @@ header h1 {
 }
 .mt {
   margin-top: 1rem;
+}
+.about {
+  padding: 20px;
 }

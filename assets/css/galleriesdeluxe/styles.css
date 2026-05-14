@@ -7,6 +7,8 @@
 html,
 body {
   min-height: 90vh;
+  color: var(--color-link);
+  text-decoration-color: var(--color-link) ;
 }
 
 body {
@@ -14,11 +16,13 @@ body {
   margin: 0;
   padding: 0;
   font-size: var(--font-size-base);
-  color: var(--color-text);
+  color: var(--color-link);
+  text-decoration-color: var(-color-link) ;
   background: var(--color-background);
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  fill: currentColor; /* Applies to SVG only */
+  fill: currentColor;
+  background-color: var(--color-body); /* Applies to SVG only */
 }
 
 footer {
@@ -44,7 +48,7 @@ footer {
 }
 
 a {
-  color: var(--color-primary);
+  color: var(--color-link);
   text-decoration: none;
   font-weight: bold;
   &:hover {
@@ -78,6 +82,8 @@ header {
   text-align: center;
   margin-top: 2rem;
   margin-bottom: 3rem;
+  padding: 30px;
+  background-color: var(--color-secondary);
 
   ul {
     display: flex;
@@ -120,11 +126,15 @@ header {
 
   a {
     text-decoration: none;
-    color: var(--color-primary);
+    color: var(--color-link);
   }
 
   .card {
     padding: 2rem;
+    text-align: center;
+    background-color: #fcfcfc; /* White background behind the product */
+    border: 1px solid #b8a7a7; /* The subtle border around the box */
+    border-radius: 4px;
 
     .card-img {
       /* Overlay num-photos in the upper right corner of the image. */
@@ -177,3 +187,8 @@ header {
 .mt {
   margin-top: 1rem;
 }
+
+.about {
+  padding: 20px;
+}
+
